@@ -20,4 +20,7 @@ A fun daily memory tile-flip game that predicts puzzle difficulty using a machin
 4. Explore the ML notebook: `memory_flip_ml.ipynb`
 
 ## Team
-[List team members]
+Yaminipoojitha Rayadurgam
+Aabdhul 
+Gajendra Varma
+Surya Tej
