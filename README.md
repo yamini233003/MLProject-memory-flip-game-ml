@@ -16,7 +16,7 @@ A fun daily memory tile-flip game that predicts puzzle difficulty using a machin
 ## How to Run
 1. Install Python 3.x
 2. Install required packages: `pip install -r requirements.txt`
-3. Run the game: `python memory_flip_game.py`
+3. Run the game: `final_number_memory_game.py`
 4. Explore the ML notebook: `memory_flip_ml.ipynb`
 
 ## Team
